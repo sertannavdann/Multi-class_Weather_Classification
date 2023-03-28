@@ -1,6 +1,6 @@
 # Weather Detection
 
-You can reach the [Dataset](https://data.mendeley.com/datasets/4drtyfjtfy/1). 
+
 
 This repository contains the implementation of a Weather Detection model using deep learning techniques with PyTorch. 
 
@@ -14,6 +14,8 @@ The model is designed to classify Weather conditions. There are couple helper fu
 3. Merging & Splitting
 
 Those are configuration of my previous work for this specific task.
+
+### You can reach the [Dataset](https://data.mendeley.com/datasets/4drtyfjtfy/1). 
 
 ### Categories for this model:
 ['cloudy', 'rain', 'shine', 'sunrise']
