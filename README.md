@@ -17,7 +17,10 @@ Those are configuration of my previous work for this specific task.
 ['cloudy', 'rain', 'shine', 'sunrise']
 
 ### Accuracy score
-- We had a almost %100 accuracy. Our model is designed according to academic researches.
+- We had above %92 accuracy in all of our tests from google images.
+
+- The model architecture is detailly designed in accordance with François Chollet's book.
+
 - Data augmentations are highlighting variety of different features for CNN model.
 - Our model is behaving really good in the wild deployment.
 
