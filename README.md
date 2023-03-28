@@ -28,8 +28,8 @@ Those are configuration of my previous work for this specific task.
 - Data augmentations are highlighting variety of different features for CNN model.
 - Our model is behaving really good in the wild deployment.
 
-![Alt text](/accuracy_graph.png "Score")
-
+![Accuracy](/accuracy_graph.png "Score")
+![LossGraph](/loss_graph.png "Loss")
 
     
 
