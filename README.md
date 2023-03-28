@@ -21,7 +21,7 @@ Those are configuration of my previous work for this specific task.
 ### ['cloudy', 'rain', 'shine', 'sunrise']
 
 ### Accuracy score
-- We had above %92 accuracy in all of our tests from google images.
+- We had above %96 accuracy in all of our tests from google images.
 
 - The model architecture is detailly designed in accordance with François Chollet's book.
 
