@@ -17,8 +17,8 @@ Those are configuration of my previous work for this specific task.
 
 - You can reach the [Dataset](https://data.mendeley.com/datasets/4drtyfjtfy/1). 
 
-### Categories for this model:
-['cloudy', 'rain', 'shine', 'sunrise']
+## Categories for this model:
+### ['cloudy', 'rain', 'shine', 'sunrise']
 
 ### Accuracy score
 - We had above %92 accuracy in all of our tests from google images.
