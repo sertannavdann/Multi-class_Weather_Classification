@@ -16,7 +16,10 @@ In this notebook, we implement a Variational Autoencoder (VAE) for generating ne
     <img src="model_definers/vae.png" alt="cvae" width="500"> </br>
     <h3> What Are We Doing? </h3></br></br>
     <img src="https://user-images.githubusercontent.com/62226642/230697315-f74301a6-ea96-41e7-b2e6-2adc7f15ca71.png" alt="external" width="600">
-    <h3> Why Are we Doing it? </h3></br></br>
+    <h3> Why Are we Doing it? </h3></br>
+    <p> Because the images have classes the seperation of each class is required. Therefore it became a cVAE (Conditional Variational Encoder) </p>
+    <p> We want to compress each category into a latent space and make our model learn from encoding and decoding the images.</p>
+    </br>
     <img src="reconstruction/generated_epoch_50.png" alt="Images" width="600"> </br>
     <h3> What is the result? </h3></br></br>
     <img src="reconstruction/loss_graph_Adam.png" alt="Loss" width="700"> </br>
