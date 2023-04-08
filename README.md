@@ -13,9 +13,9 @@ In this notebook, we implement a Variational Autoencoder (VAE) for generating ne
 
 <div align="center"> 
     <h3> Model Descriptor </h3>
-    <img src="model_definers/vae.png" alt="cvae" width="600"> </br>
+    <img src="model_definers/vae.png" alt="cvae" width="500"> </br>
     <h3> What Are We Doing? </h3>
-    <img src="https://user-images.githubusercontent.com/62226642/230697315-f74301a6-ea96-41e7-b2e6-2adc7f15ca71.png" alt="external" width="700">
+    <img src="https://user-images.githubusercontent.com/62226642/230697315-f74301a6-ea96-41e7-b2e6-2adc7f15ca71.png" alt="external" width="600">
     <h3> Why Are we Doing it? </h3>
     <img src="reconstruction/generated_epoch_50.png" alt="Images" width="600"> </br>
     <h3> What is the result? </h3>
