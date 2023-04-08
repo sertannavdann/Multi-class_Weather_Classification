@@ -11,6 +11,9 @@
 # Variational Autoencoder (VAE)
 In this notebook, we implement a Variational Autoencoder (VAE) for generating new images from a given dataset. VAEs are a type of generative model that learn a low-dimensional latent representation of the input data. They consist of an encoder, which maps the input data to a latent space, and a decoder, which reconstructs the input data from the latent space. The key feature of VAEs is the introduction of a variational layer that models the latent space as a probabilistic distribution.
 
+![Images](reconstruction/generated_epoch_50.png "Images")
+![LossGraph](reconstruction/loss_graph_Adam.png "Loss")
+
 ## Process Overview
 Import necessary libraries: We import the required libraries, such as PyTorch, NumPy, pandas, seaborn, and matplotlib for implementing the VAE and visualizing the results.
 
