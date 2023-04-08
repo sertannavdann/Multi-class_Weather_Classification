@@ -12,6 +12,7 @@
 In this notebook, we implement a Variational Autoencoder (VAE) for generating new images from a given dataset. VAEs are a type of generative model that learn a low-dimensional latent representation of the input data. They consist of an encoder, which maps the input data to a latent space, and a decoder, which reconstructs the input data from the latent space. The key feature of VAEs is the introduction of a variational layer that models the latent space as a probabilistic distribution.
 
 <div align="center"> 
+    <img src="model_definers/vae.png" alt="cvae">
     <img src="reconstruction/generated_epoch_50.png" alt="Images" width="800">
     <img src="reconstruction/loss_graph_Adam.png" alt="Loss">
 </div>
